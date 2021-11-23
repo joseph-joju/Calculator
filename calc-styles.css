@@ -1,0 +1,27 @@
+body{
+    background-color: aqua;
+}
+.box{
+    background-color:rgb(236, 13, 13);
+    height: 200px;
+    width: 110px;
+    border-radius: 10px;
+    position: relative;
+    margin: 100px auto;
+    padding: 20px;
+
+    border: 6px solid darkred;
+ 
+    
+}
+.display-input{
+    height: 2em;
+    width: 100%;
+    margin:auto
+    
+}
+
+p{
+    line-height: 10px;
+    align-items: center;
+}
